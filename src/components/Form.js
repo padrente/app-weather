@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Form.css';
 
 const From = props => {
     return(
